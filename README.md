@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Alelith</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>Lilith</strong></h1>
 
 <p align="center">
   💻 <b>Programadora Backend & Multiplataforma</b><br>
@@ -31,7 +31,7 @@ Me motiva aprender nuevas tecnologías, resolver problemas y seguir mejorando ca
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)
 
 #### ⚙️ Frameworks y motores:

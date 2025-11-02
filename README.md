@@ -80,8 +80,8 @@ Me motiva aprender nuevas tecnologías, resolver problemas y seguir mejorando ca
 
 ### 📫 Contacto
 
-📧 **alejandrodev.contacto@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/[tu_usuario])  
+📧 **eacaymo@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/alelith)  
 💻 [GitHub](https://github.com/Alelith)
 
 ---

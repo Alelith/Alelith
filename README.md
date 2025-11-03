@@ -26,6 +26,11 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 ### ⚙️ Technologies and tools
 
 #### 💡 Main languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,godot" />
+  </a>
+</p>
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -35,12 +40,22 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)
 
 #### ⚙️ Frameworks and engines:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,unity,godot" />
+  </a>
+</p>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 #### 🛠️ Other tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,mysql,sqlite,notion" />
+  </a>
+</p>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)

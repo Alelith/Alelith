@@ -32,14 +32,14 @@ I'm motivated by learning new technologies, solving problems, and continuously i
   </a>
 </p>
 
-#### ⚙️ Frameworks and engines:
+<h4 align=center>⚙️ Frameworks and engines:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,fastapi,unity,godot" />
   </a>
 </p>
 
-#### 🛠️ Other tools:
+<h4 align=center>🛠️ Other tools:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,mysql,sqlite,notion" />

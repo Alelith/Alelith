@@ -25,7 +25,7 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 
 ### ⚙️ Technologies and tools
 
-#### 💡 Main languages:
+<h4 align=center>💡 Main languages:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,godot" />

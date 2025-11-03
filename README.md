@@ -35,7 +35,7 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 <h4 align=center>⚙️ Frameworks and engines:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,unreal,unity,godot" />
   </a>
 </p>
 

@@ -10,39 +10,46 @@
 
 ### 🧠 About me
 
-I'm a programmer passionate about **logic, backend, and multiplatform development**.  
-I enjoy creating functional, efficient, and well-structured applications.  
+I'm a programmer passionate about **logic, backend, and multiplatform development**.
+I enjoy creating functional, efficient, and well-structured applications.
 
 My education includes:
-- 🎓 **Multiplatform Application Development (DAM)** (2021–2023)  
-- 🎮 **Specialization in Video Games and Mixed Reality** (2023–2024)  
+- 🎓 **Multiplatform Application Development (DAM)** (2021–2023)
+- 🎮 **Specialization in Video Games and Mixed Reality** (2023–2024)
 - 🏫 **Campus 42** (2025–present)
 
-Although I started in the video game industry, my current focus is on **backend and software development**.  
+Although I started in the video game industry, my current focus is on **backend and software development**.
 I'm motivated by learning new technologies, solving problems, and continuously improving.
 
 ---
 
 ### ⚙️ Technologies and tools
 
-<h4 align=center>💡 Main languages:</h4>
+<h4 align="center">📚 Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,godot" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs" />
   </a>
 </p>
 
-<h4 align=center>⚙️ Frameworks and engines:</h4>
+<h4 align="center">🧱 Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,unreal,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,sqlite" />
   </a>
 </p>
 
-<h4 align=center>🛠️ Other tools:</h4>
+<h4 align="center">🎮 Game Dev & Engines</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,mysql,sqlite,notion" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+  </a>
+</p>
+
+<h4 align="center">🛠️ Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,notion" />
   </a>
 </p>
 
@@ -61,9 +68,15 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 
 ### 🧩 Featured projects
 
+**🔺 [Ray Tracer](https://github.com/Alelith/ray-tracer)**
+A GPU-accelerated megakernel ray tracer built from scratch in C++ and CUDA. Supports mesh and primitive rendering, BVH acceleration structures, and physically based materials.
+`C++` `CUDA` `SDL2`
 
+**🎹 [MidiSynth](https://github.com/Alelith/MidiSynth)**
+A real-time FM synthesizer with MIDI input and an audio-reactive FFT visualizer. Uses lock-free ring buffers and queues to handle concurrent audio and MIDI processing.
+`C++` `Raylib` `FFTW` `PortAudio` `RtMidi`
 
-*(Projects may be under development or continuously updating)*
+*(More projects coming soon)*
 
 ---
 
@@ -77,16 +90,15 @@ I'm motivated by learning new technologies, solving problems, and continuously i
 
 ### 📫 Contact
 
-📧 **eacaymo@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/alelith)  
+📧 **eacaymo@gmail.com**
+💼 [LinkedIn](https://www.linkedin.com/in/alelith)
 💻 [GitHub](https://github.com/Alelith)
 
 ---
 
 ### 🧡 Final note
 
-> 💬 *"Great software is born from the balance between elegant logic and pragmatic execution."*  
-> — Alelith
+> 💬 *"Great software is born from the balance between elegant logic and pragmatic execution."*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alelith&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
